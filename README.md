@@ -31,7 +31,7 @@ All are rebindable in Minecraft's Controls menu, under Game.
 
 **Playing**
 
-- **Getting started**: requirements, installation, your first session
+- [Getting started](getting-started/): requirements, installation, your first session
 - **Games and sessions**: campaigns, invites, rosters, joining a session
 - **Characters and companions**: sheet sections, building a character, bringing one
   into a game
