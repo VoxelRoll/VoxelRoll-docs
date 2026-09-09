@@ -2,8 +2,8 @@
 
 VoxelRoll is a mod for running tabletop RPG sessions inside Minecraft. One player
 runs the game as GM. Everyone else plays a character. Pressing your inventory key
-opens that character's sheet instead: abilities, skills and attacks, spells,
-background, and the character's own inventory.
+opens that character's sheet instead: abilities, skills and attacks, spells, and
+background.
 
 The server does the bookkeeping a table normally does on paper. It tracks whose turn
 it is and holds everyone else in place until their turn comes around. It rolls every
@@ -33,8 +33,8 @@ All are rebindable in Minecraft's Controls menu, under Game.
 
 - [Getting started](getting-started/): requirements, installation, your first session
 - **Games and sessions**: campaigns, invites, rosters, joining a session
-- **Characters and companions**: sheet sections, building a character, bringing one
-  into a game
+- [Characters](characters/): sheet sections, building a character, bringing one into a game
+- **Companions**: building, bonding to a character, playing one
 - **Dice and rolling**: roll modes, GM-only rolls, roll requests, roll history
 - **Turns and combat**: initiative, the movement lock, ghost mode
 
