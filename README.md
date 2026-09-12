@@ -32,7 +32,7 @@ All are rebindable in Minecraft's Controls menu, under Game.
 **Playing**
 
 - [Getting started](getting-started/): requirements, installation, your first session
-- **Games and sessions**: campaigns, invites, rosters, joining a session
+- [Campaigns and sessions](campaigns/): creating a campaign, invites, rosters, joining a session
 - [Characters](characters/): sheet sections, building a character, bringing one into a game
 - **Companions**: building, bonding to a character, playing one
 - **Dice and rolling**: roll modes, GM-only rolls, roll requests, roll history
@@ -53,7 +53,7 @@ All are rebindable in Minecraft's Controls menu, under Game.
 
 **Reference**
 
-- **Command reference**: every `/voxelroll` command in one place
+- [Command reference](commands/): every `/voxelroll` command in one place
 
 ## Feedback and bugs
 

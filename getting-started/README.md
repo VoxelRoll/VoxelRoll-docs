@@ -6,8 +6,7 @@ getting a player in, making a world, and rolling a die. Around fifteen minutes.
 ## Requirements
 
 - Minecraft 26.1
-- NeoForge 26.1.2.76, or a compatible 26.1.2.x build
-- Java 25
+- NeoForge 26.1.2.76
 
 Works in singleplayer and on a dedicated server. **Every player needs the mod installed**,
 not just the host. All state, dice and turn logic live on the server, and the interface and
@@ -34,12 +33,12 @@ Everything below is done by whoever holds the role.
 
 ## 2. Open the panel
 
-Press `C`. The panel opens on the Games tab with nothing in it yet.
+Press `C`. The panel opens on the Campaigns tab with nothing in it yet.
 
-![The GM panel with no games](../images/getting-started/gm-panel-empty.png)
+![The GM panel with no campaigns](../images/getting-started/gm-panel-empty.png)
 
 The **GM / Player** switch in the top right changes which tabs you see. As a GM you get
-Games, World, Session, NPCs and Buildings. As a player you get Games, Session, Character
+Campaigns, World, Session, NPCs and Buildings. As a player you get Campaigns, Session, Character
 and Companion.
 
 ## 3. Create a campaign
@@ -118,9 +117,10 @@ never reach the players.
 
 ## Next
 
-- [Turns and combat](../turns/) for initiative and running a fight
-- [Characters and companions](../characters/) for building a sheet out
-- [Worlds](../worlds/) for imports, backups and versions
+- [Campaigns and sessions](../campaigns/) for rosters, settings and running a session
+- [Characters](../characters/) for building a sheet out
 - [Command reference](../commands/) for everything you can type
+
+Turns and combat, and worlds, are still being written.
 
 [Back to the manual index](../)
