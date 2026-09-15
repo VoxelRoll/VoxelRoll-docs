@@ -35,7 +35,7 @@ All are rebindable in Minecraft's Controls menu, under Game.
 - [Campaigns and sessions](campaigns/): creating a campaign, invites, rosters, joining a session
 - [Characters](characters/): sheet sections, building a character, bringing one into a game
 - **Companions**: building, bonding to a character, playing one
-- **Dice and rolling**: roll modes, GM-only rolls, roll requests, roll history
+- [Dice and rolling](dice/): roll modes, GM-only rolls, roll requests, roll history
 - **Turns and combat**: initiative, the movement lock, ghost mode
 
 **Running a game**
