@@ -82,8 +82,8 @@ The request arrives as a prompt at the top of that player's roll panel.
 ![A request waiting to be rolled](../images/dice/request-received.png)
 
 Rolling it fills in the modifiers the request asked for, so a requested Dexterity save
-rolls as that character's Dexterity save. While a request is waiting, a **Roll** entry also
-appears on the player's own wheel as a shortcut to answer it.
+rolls as that character's Dexterity save. While a request is waiting, **Roll** and
+**Decline** entries also appear on the player's own wheel as a shortcut to answer it.
 
 The GM can take it back with **Cancel Requests** on the same wheel, which clears anything
 still waiting.

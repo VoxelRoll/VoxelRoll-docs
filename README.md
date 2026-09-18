@@ -36,13 +36,13 @@ All are rebindable in Minecraft's Controls menu, under Game.
 - [Characters](characters/): sheet sections, building a character, bringing one into a game
 - **Companions**: building, bonding to a character, playing one
 - [Dice and rolling](dice/): roll modes, GM-only rolls, roll requests, roll history
-- **Turns and combat**: initiative, the movement lock, ghost mode
+- [Turns and combat](turns/): turn mode, the freeze, ghost mode, initiative, rounds
 
 **Running a game**
 
 - **GM tools**: the encounter screen, NPC and monster templates, tokens, taking
   control
-- **Scenes**: moments, spotlight, running a split party
+- **Moments**: setting up moments, spotlight, running a split party
 - **Worlds**: campaign worlds, entering and leaving, schematics, environment,
   versions
 

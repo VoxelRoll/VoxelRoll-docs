@@ -119,8 +119,9 @@ never reach the players.
 
 - [Campaigns and sessions](../campaigns/) for rosters, settings and running a session
 - [Characters](../characters/) for building a sheet out
+- [Turns and combat](../turns/) for turn mode and initiative
 - [Command reference](../commands/) for everything you can type
 
-Turns and combat, and worlds, are still being written.
+Worlds is still being written.
 
 [Back to the manual index](../)

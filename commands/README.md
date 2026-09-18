@@ -89,9 +89,9 @@ NPC and monster tokens:
 | `token npc clear loose` | GM | Clears tokens that lost their owning campaign. |
 | `token npc clear all` | GM | Clears strays from every campaign. Operator territory, use with care. |
 
-## Scenes and moments
+## Moments
 
-Moments are GM-authored scenes inside a world. `<path>` is the moment's path in the
+Moments are GM-authored areas inside a world. `<path>` is the moment's path in the
 folder tree, the way `moment list` prints it.
 
 | Command | Who | What it does |
