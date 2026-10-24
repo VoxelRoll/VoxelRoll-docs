@@ -118,7 +118,7 @@ the world.
 ## Moments
 
 With moments set up, each moment runs its own turn order and the panel header names the
-moment you are in. That is covered in Moments.
+moment you are in. See [Moments](../moments/).
 
 Full syntax for the turn commands: [Command reference](../commands/#turns-and-combat)
 
