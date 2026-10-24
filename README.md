@@ -45,6 +45,8 @@ All are rebindable in Minecraft's Controls menu, under Game.
 - **Moments**: setting up moments, spotlight, running a split party
 - [Worlds](worlds/): creating and importing worlds, entering and leaving, server slots,
   time and weather
+- [World versions](world-versions/): syncing, restoring, pins, moving a world to another
+  server
 
 **Server admin**
 
