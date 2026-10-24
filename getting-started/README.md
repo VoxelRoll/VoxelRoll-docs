@@ -77,11 +77,11 @@ own Session tab, or with:
 ## 6. Make a world and enter it
 
 Go to the **World** tab and create a world for the campaign. A campaign can hold up to
-three, and the arrows at the bottom page between them.
+three.
 
 ![The World tab with a world ready to enter](../images/getting-started/world-enter.png)
 
-**Enter World** takes you in. Have your players enter too, by starting the session. Outside the game world, the session HUD is not visible.
+**Enter World** takes you in. Players enter automatically when they join the session. Outside the game world, the session HUD is not visible.
 
 Once you are in, the HUD appears: your current roll settings top left, roll history on the
 right. Both collapse with the arrows.
@@ -109,8 +109,8 @@ activate a character, your inventory key still gives you the vanilla inventory.*
 
 ## 8. Roll something
 
-Players roll by clicking a skill, save or attack on the sheet, or from the quick wheel by
-holding `G`. As GM you can request a roll from one player or the whole table.
+Players roll by clicking a skill, save or attack on the sheet, or with **Roll** on the HUD
+picker. As GM you can request a roll from one player or the whole table.
 
 Every roll is made by the server and written to the shared history. Rolls you mark GM-only
 never reach the players.
@@ -120,8 +120,7 @@ never reach the players.
 - [Campaigns and sessions](../campaigns/) for rosters, settings and running a session
 - [Characters](../characters/) for building a sheet out
 - [Turns and combat](../turns/) for turn mode and initiative
+- [Worlds](../worlds/) for creating, importing and managing campaign worlds
 - [Command reference](../commands/) for everything you can type
-
-Worlds is still being written.
 
 [Back to the manual index](../)

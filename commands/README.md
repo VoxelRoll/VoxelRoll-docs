@@ -143,7 +143,6 @@ campaign's worlds, and work with no campaign running. `<n>` is a version number 
 | `world versions pin-version <n> <name>` | Pins an older version by number. |
 | `world versions unpin <id>` | Removes a pin. |
 | `world versions rename-pin <id> <name>` | Renames a pin. |
-| `world versions rollback <target>` | Rolls the world back to a version or pin. |
 | `world versions delete <n>` | Deletes one version. |
 | `world versions gc` | Collects unpinned versions to reclaim disk. |
 | `world versions lines` | Lists the server lines your copies came from. |
@@ -157,8 +156,6 @@ campaign's worlds, and work with no campaign running. `<n>` is a version number 
 | `world export <campaignName> <target> <name>` | Exports a world to a `.vrw` file. |
 | `world import <campaignName> <file>` | Imports a `.vrw` file into a campaign. |
 | `world import-folder <campaignName> <world> <path> <centreX> <centreZ> <radius>` | Imports a Minecraft save folder. |
-| `world import-azgaar <campaignName> <world> <path> ...` | Imports an Azgaar map as terrain. |
-| `world import-heightmap <campaignName> <world> <path> ...` | Imports a heightmap image as terrain. |
 
 ## Environment
 

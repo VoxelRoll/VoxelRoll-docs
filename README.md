@@ -43,8 +43,8 @@ All are rebindable in Minecraft's Controls menu, under Game.
 - **GM tools**: the encounter screen, NPC and monster templates, tokens, taking
   control
 - **Moments**: setting up moments, spotlight, running a split party
-- **Worlds**: campaign worlds, entering and leaving, schematics, environment,
-  versions
+- [Worlds](worlds/): creating and importing worlds, entering and leaving, server slots,
+  time and weather
 
 **Server admin**
 
