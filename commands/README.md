@@ -84,9 +84,9 @@ NPC and monster tokens:
 | `token npc control <token>` | GM, in world | Takes control of a token and plays it directly. |
 | `token npc remove <token>` | GM | Removes one spawned token. |
 | `token npc save-to-template <token>` | GM | Saves this token's current state back to its template. |
-| `token npc reveal here` | GM, in world | Reveals hidden tokens around you. |
+| `token npc reveal here` | GM, in world | Reveals the hidden tokens in the moment you stand in. |
 | `token npc clear` | GM | Clears stray tokens left by your own stopped campaigns. |
-| `token npc clear loose` | GM | Clears tokens that lost their owning campaign. |
+| `token npc clear loose` | GM | Removes every token standing outside all moments. Party tokens are kept. |
 | `token npc clear all` | GM | Clears strays from every campaign. Operator territory, use with care. |
 
 ## Moments

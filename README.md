@@ -40,8 +40,8 @@ All are rebindable in Minecraft's Controls menu, under Game.
 
 **Running a game**
 
-- **GM tools**: the encounter screen, NPC and monster templates, tokens, taking
-  control
+- [GM tools](gm-tools/): NPC and monster templates, spawning and hiding tokens, taking
+  control, going unseen
 - [Moments](moments/): setting up moments, spotlight, running a split party
 - [Worlds](worlds/): creating and importing worlds, entering and leaving, server slots,
   time and weather

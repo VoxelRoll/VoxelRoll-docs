@@ -40,7 +40,7 @@ The GM's wheel grows a second ring around the session one while turn mode is on.
 - **Next Turn** and **Previous Turn** step through the order
 - **Start Combat** is covered below
 - **Sheet** opens the sheet of whoever is acting, **Move / Control** the token menu for
-  them
+  them (see [GM tools](../gm-tools/#the-token-menu))
 - **Encounter** opens the encounter screen
 - **Exit Turn Mode** releases everyone
 - **Conditions** is not built yet

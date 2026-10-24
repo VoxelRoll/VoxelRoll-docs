@@ -42,7 +42,8 @@ Each version's **…** opens its actions.
 - **Restore** puts this version back on the server. See below.
 - **Pin** gives the version a name and keeps it forever. Up to 10 pins per campaign.
   Pinned versions show the pin's name and get **Unpin** and **Rename** instead.
-- **Export** saves the version as a `.vrw` file in `.minecraft/voxelroll/gm/exports`.
+- **Export** saves the version as a `.vrw` file in your exports folder. **Open folder** on
+  the import popup (see below) takes you there.
 - **Check integrity** verifies every chunk. A version with broken chunks is marked
   **damaged**, and you are offered to repair it by downloading the world from the server
   again.
