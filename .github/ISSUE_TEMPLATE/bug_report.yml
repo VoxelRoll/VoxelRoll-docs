@@ -1,0 +1,85 @@
+name: Bug report
+description: Something in VoxelRoll isn't working correctly
+title: "[Bug] "
+labels: ["bug"]
+type: Bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. The more detail you give, the faster it gets fixed. Please search the existing issues first.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What went wrong, and what did you expect to happen instead? Screenshots or short videos help a lot.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Start a campaign as GM
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: Were you the GM or a player?
+      options:
+        - GM
+        - Player
+        - Both (singleplayer)
+        - Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: setup
+    attributes:
+      label: Where were you playing?
+      options:
+        - Singleplayer
+        - Open to LAN
+        - Dedicated server
+        - Hosted server
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: VoxelRoll version
+      description: Shown in the Mods menu, for example 0.4.72-26.1.2.
+      placeholder: 0.4.72-26.1.2
+    validations:
+      required: true
+
+  - type: input
+    id: loader
+    attributes:
+      label: Minecraft and NeoForge version
+      placeholder: Minecraft 26.1.2, NeoForge 26.1.2.76
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods
+      description: Anything else installed that could interact, or "none".
+
+  - type: input
+    id: log
+    attributes:
+      label: Game log
+      description: Upload `latest.log` from your `.minecraft/logs` folder to https://mclo.gs/ and paste the link. On a server, use the server's log. Please don't paste raw log text.
+      placeholder: https://mclo.gs/...
+    validations:
+      required: true
